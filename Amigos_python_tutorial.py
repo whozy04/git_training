@@ -5,4 +5,4 @@ def doit(a, b):
 r = doit(2, 3)
 print(r)
 
-print("The man")
+print("The man is good")
