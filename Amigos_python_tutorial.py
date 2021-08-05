@@ -1,4 +1,8 @@
 print("hello world")
 
-def sumit(a,b):
-  return a + b
+
+def doit(a, b):
+    return a + b
+
+
+print(doit(2, 3))
